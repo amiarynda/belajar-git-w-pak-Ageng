@@ -6,3 +6,7 @@ clone project git/\
 
 #mengecualikan file 
  log.txt
+index.ts
+
+#mengabaikan semua file dengan ekstensi Py
+*.py 
